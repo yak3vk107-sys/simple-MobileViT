@@ -37,7 +37,6 @@ python run.py --resume path/to/best_model.pth
 |-------|---------|----------|------------|-------|
 | simple-MobileViT | cifar10 | 91.74% | 1.12 M | 7.74 G |
 | simple-MobileViT_deeper | cifar10 | 92.51% | 1.12 M | 7.74 G |
-| simple-MobileViT_deeper  | cifar10 | 92.51% | 
 
 ## 代码结构
 .
