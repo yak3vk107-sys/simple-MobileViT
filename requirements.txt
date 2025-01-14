@@ -1,0 +1,8 @@
+matplotlib==3.10.0
+numpy==2.0.1
+torch==2.5.1
+torchaudio==2.5.1
+torchvision==0.20.1
+tqdm==4.66.5
+pandas==2.2.3
+typing-extensions==4.12.2
