@@ -39,6 +39,7 @@ python run.py --resume path/to/best_model.pth
 | simple-MobileViT_deeper | cifar10 | 92.51% | 1.12 M | 7.74 G |
 
 ## 代码结构
+```bash
 .
 ├── data    # 数据集
 ├── model.py    # 模型整体定义
@@ -61,4 +62,4 @@ python run.py --resume path/to/best_model.pth
 ├── README.md
 ├── requirements.txt    # python环境
 └── run.py              # 训练&测试代码
-
+```
